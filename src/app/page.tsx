@@ -8,7 +8,7 @@ import FooterBaseCard from '@/components/sections/footer/FooterBaseCard';
 import HeroBillboardScroll from '@/components/sections/hero/HeroBillboardScroll';
 import MediaAbout from '@/components/sections/about/MediaAbout';
 import NavbarStyleCentered from '@/components/navbar/NavbarStyleCentered/NavbarStyleCentered';
-import PricingCardTwo from '@/components/sections/pricing/PricingCardTwo';
+import PricingCardFive from '@/components/sections/pricing/PricingCardFive';
 
 export default function LandingPage() {
   return (
@@ -116,7 +116,7 @@ export default function LandingPage() {
   </div>
 
   <div id="pricing" data-section="pricing">
-      <PricingCardTwo
+      <PricingCardFive
       animationType="slide-up"
       textboxLayout="default"
       useInvertedBackground={false}
