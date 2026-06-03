@@ -51,7 +51,7 @@ export default function LandingPage() {
         {
           text: "Zobacz wyposażenie",          href: "/wyposazenie"},
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/off-road-car-wilderness_23-2151483004.jpg"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3ED2hZSKV5oKFUyg41C0Ey45yru/uploaded-1780478310528-23fgj98d.png"
       imageAlt="Dramatyczne ujęcie Dodge Durango SRT Hellcat 2021 z przodu"
     />
   </div>
