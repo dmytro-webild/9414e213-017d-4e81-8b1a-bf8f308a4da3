@@ -32,6 +32,8 @@ export default function SilnikiPage() {
           name: "Wyposażenie",          id: "/wyposazenie"},
         {
           name: "Silniki",          id: "/silniki"},
+        {
+          name: "Usterki",          id: "/usterki"},
       ]}
       brandName="DODGE DURANGO"
     />
@@ -184,6 +186,8 @@ export default function SilnikiPage() {
               label: "Wyposażenie",              href: "/wyposazenie"},
             {
               label: "Silniki",              href: "/silniki"},
+            {
+              label: "Usterki",              href: "/usterki"},
           ],
         },
         {
