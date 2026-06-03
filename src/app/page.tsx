@@ -124,7 +124,7 @@ export default function LandingPage() {
       description="Wybierz pakiet serwisowy idealny dla Twojego Dodge Durango."
       plans={[
         {
-          id: "basic-service",          tag: "Podstawowy",          price: "299 PLN",          period: "rocznie",          description: "Standardowy przegląd i wymiana płynów. Idealny dla codziennej eksploatacji.",          featuresTitle: "Zawiera:",          features: [
+          id: "basic-service",          tag: "Podstawowy",          price: "399 PLN",          period: "rocznie",          description: "Standardowy przegląd i wymiana płynów. Idealny dla codziennej eksploatacji.",          featuresTitle: "Zawiera:",          features: [
             "Wymiana oleju silnikowego",            "Kontrola płynów eksploatacyjnych",            "Sprawdzenie układu hamulcowego",            "Podstawowa diagnostyka komputerowa"
           ],
           button: {
