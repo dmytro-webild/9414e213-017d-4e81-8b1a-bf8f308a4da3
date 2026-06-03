@@ -35,7 +35,7 @@ export default function LandingPage() {
         {
           name: "Silniki",          id: "/silniki"},
         {
-          name: "Usterki",          id: "/usterki"},
+          name: "Usterki",          id: "/usterki"}
       ]}
       brandName="DODGE DURANGO"
     />
